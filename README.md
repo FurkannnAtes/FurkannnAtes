@@ -8,7 +8,7 @@
 <h3>Programs and Languages I Use</h3>
 
 <br/>
-<img src="https://skillicons.dev/icons?i=react,javascript,jquery,bootstrap,linkedin,html,css,sass,nodejs,vscode,figma,github,discord&theme=dark" />
+<img src="https://skillicons.dev/icons?i=react,javascript,jquery,bootstrap,linkedin,html,css,sass,nodejs,nextjs,vscode,figma,github,discord&theme=dark" />
 <br/>
 <br/>
 <div width="50%"><img width="80%" src="https://github-readme-stats.vercel.app/api?username=FurkannnAtes&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117">
