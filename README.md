@@ -3,10 +3,12 @@
 
 <h4>🚀 I am a front-end developer </b></h4>
 <div align="center">
-    <a href="https://discord.com/users/752561033775677611" title="Discord Account"><img src="https://lanyard-profile-readme.vercel.app/api/752561033775677611"></a>
-</div>
-<h3>Programs and Languages I Use</h3>
 
+<a href="https://discord.com/users/752561033775677611" title="Discord Account"><img src="https://lanyard-profile-readme.vercel.app/api/752561033775677611"> </a>
+
+ <img align="end"  width="300px" height="210px" src="https://c.tenor.com/2uyENRmiUt0AAAAd/coding.gif"/>
+
+<br/>
 <br/>
 <img src="https://skillicons.dev/icons?i=react,javascript,jquery,tailwindcss,bootstrap,linkedin,html,css,sass,nodejs,nextjs,vscode,figma,github,discord&theme=dark" />
 <br/>
