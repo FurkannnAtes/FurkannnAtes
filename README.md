@@ -1,10 +1,10 @@
 <div align="center">
   <h1>👨‍✈️ Hey! I am Furkan Ateş</h1>
 
-<h4>🚀 I am a front-end developer </b></h4>
+<h4>🚀 I am a fullstack web developer </b></h4>
 <div align="center">
 
-<a href="https://discord.com/users/752561033775677611" title="Discord Account"><img src="https://lanyard-profile-readme.vercel.app/api/752561033775677611"> </a>
+
 
  <img align="end"  width="300px" height="210px" src="https://c.tenor.com/2uyENRmiUt0AAAAd/coding.gif"/>
 
